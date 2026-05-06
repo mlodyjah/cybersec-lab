@@ -18,3 +18,15 @@ Create a local vulnerable web application environment using Docker.
 - Docker basics
 - container deployment
 - local web environments
+
+## Enumeration
+
+### Docker
+- checked running containers
+- analyzed container logs
+- accessed container shell using docker exec
+
+### Nmap
+- scanned localhost services
+- identified Apache web server
+- detected exposed HTTP port
