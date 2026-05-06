@@ -1,2 +1,16 @@
-# cybersec-lab
-Personal cybersecurity learning repository containing labs, write-ups, networking notes and Python automation projects.
+# Cybersec Lab
+
+Personal cybersecurity learning repository containing:
+- security labs
+- networking notes
+- Python automation scripts
+- TryHackMe write-ups
+- Docker environments
+
+## Technologies
+- Linux
+- Docker
+- Python
+- Networking
+- Git
+- Nmap
